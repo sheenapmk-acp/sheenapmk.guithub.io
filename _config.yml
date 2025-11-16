@@ -1,0 +1,31 @@
+title: "Sheena Mathew"
+name: "Sheena Mathew"
+description: "Assistant Professor of Mathematics, Alphonsa College, Pala"
+email: "sheenapmk@gmail.com"
+
+# Optional – set your GitHub info
+github_username: your-github-username
+
+# Site URL settings (edit these)
+url: "https://your-github-username.github.io"   # no trailing slash
+baseurl: ""                                     # if using user/organization site; use "/repo-name" for project site
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# Navigation links (top menu)
+header_pages:
+  - index.md
+  - publications.md
+  - activities.md
+  - teaching.md
+
+# Social links (optional – fill if needed)
+social_links:
+  # - label: ORCID
+  #   url: "https://orcid.org/your-orcid-id"
+  # - label: Google Scholar
+  #   url: "https://scholar.google.com/..."
+  # - label: LinkedIn
+  #   url: "https://www.linkedin.com/in/..."
