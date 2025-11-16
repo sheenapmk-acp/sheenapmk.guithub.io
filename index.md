@@ -25,7 +25,6 @@ Kottayam, Kerala – 686574, India
 
 ## About
 
-An Assistant Professor in the Department of Mathematics at Alphonsa College, Pala.  
 Research interests are in **Fractional Differential Equations** with applications to **neuronal communications**.
 
 - **Specialization:** Fractional Differential Equations  
